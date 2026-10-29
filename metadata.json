@@ -1,0 +1,8 @@
+{
+  "name": "(ollama) bổ sung tạo theo mẫu Xây dựng KH giảng bài",
+  "description": "An AI-powered application to generate structured lesson plans (Bài Giảng) based on academic templates, automatically distributing time and content from uploaded materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
